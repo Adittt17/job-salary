@@ -84,3 +84,7 @@ XGBoost is selected as the best model because it has a higher R² score (0.9078 
 3. **R² Score (Coefficient of Determination)**  
    \[ R^2 = 1 - \frac{\sum (y - \hat{y})^2}{\sum (y - \bar{y})^2} \]  
    → Indicates how well the model explains the variance of the target variable.
+
+## Web Inference
+
+[Streamlit](https://job-salary-laso-and-xgboost.streamlit.app/)
